@@ -1,0 +1,19 @@
+/* navbar- link line effect */
+.line-animate {
+    height: 1px;
+    width: 0;
+    transition: width var(--transition);
+}
+
+.nav-item:hover>.line-animate {
+    width: 100%;
+}
+
+/* navbar- link text color effect */
+.nav-item>.nav-link {
+    transition: color var(--transition);
+}
+
+.nav-item:hover>.nav-link {
+    color: var(--light-color) !important;
+}

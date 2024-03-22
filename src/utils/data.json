@@ -1,0 +1,73 @@
+{
+    "sections" : [
+        {
+            "name" : "Home",
+            "to" : "/"
+        },
+        {
+            "name" : "About us",
+            "to" : "/about"
+        },
+        {
+            "name" : "Products",
+            "to" : "/products"
+        },
+        {
+            "name" : "Infra",
+            "to" : "/infra"
+        },
+        {
+            "name" : "Contact us",
+            "to" : "/contact"
+        }
+    ],
+    "carousel": [
+        {
+            "title": "Gen AI" ,
+            "src" : "https://bl-i.thgim.com/public/incoming/etdzp9/article67536666.ece/alternates/FREE_1200/IMG_iStock-1493495125_2_1_7HBG0C5H.jpg",
+            "alt" : "Image 1",
+            "caption" : "Caption 1"
+        },
+        {
+          "title": "AI personal assistant",
+            "src" : "https://wallpapercave.com/wp/wp9276341.jpg",
+            "alt" : "Image 2",
+            "caption" : "Caption 2"
+        },
+        {
+          "title": "Lorem",
+            "src" : "images/Carousel-4.jpg",
+            "alt" : "Image 3",
+            "caption" : "Caption 3"
+        },
+        {
+          "title": "Lorem Ipsum",
+            "src" : "https://images.prismic.io/turing/652ec640fbd9a45bcec819fd_AI_Powered_Virtual_Assistant_c6d268785b.webp?auto=format,compress",
+            "alt" : "Image 4",
+            "caption" : "Caption 4"
+        }
+      ],
+    "Gallery": [
+      {
+        "title": "SmartLaw: Revolutionizing Legal Practice with AI and LLM",
+        "largeImage": "https://www.udacity.com/blog/wp-content/uploads/2021/02/AI-Replace-Jobs_Blog-1-scaled.jpeg"
+      },
+      {
+        "title": "AI in Law: Transforming Legal Research and Analysis with LLM",
+        "largeImage": "https://th.bing.com/th/id/OIP.C0POIWUyxTxZ_AeAG2lW3AHaDt?rs=1&pid=ImgDetMain"
+      },
+      {
+        "title": "LegalTech Innovations: Harnessing AI and LLM for Legal Solutions",
+        "largeImage": "https://th.bing.com/th/id/OIP.yZIagfRhq-UFLmtNQtVEFAHaE8?w=600&h=400&rs=1&pid=ImgDetMain"
+      },
+      {
+        "title": "AI-Powered Legal Assistance: Enhancing Efficiency with LLM",
+        "largeImage": "https://th.bing.com/th/id/OIP.wYseqWqDfCmxMFBJ-BkKsQHaEK?w=800&h=450&rs=1&pid=ImgDetMain"
+      },
+      {
+        "title": "LLM Meets AI: Advancing Legal Services for Tomorrow",
+        "largeImage": "https://th.bing.com/th/id/OIP.wYseqWqDfCmxMFBJ-BkKsQHaEK?w=800&h=450&rs=1&pid=ImgDetMain"
+      }
+
+    ]
+}
