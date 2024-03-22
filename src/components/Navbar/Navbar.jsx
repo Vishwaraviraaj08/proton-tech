@@ -10,7 +10,7 @@ export const Navbar = () => {
     return (
         <nav className={"navbar sticky-top navbar-expand-lg navbar-dark dark-color-bg px-lg-5"} style={{minHeight: '13vh'}}>
             <div className="container-fluid">
-                <img src="/images/Logo camware.png" alt="logo" height={"30px"} width={"30px"}/>
+                <img src="/images/logo.png" alt="logo" height={"30px"} width={"30px"}/>
                 <Link className="navbar-brand fs-5 light-color-text ms-3" to="/">
                     {"Proton Tech"}
                 </Link>
